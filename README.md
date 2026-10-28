@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**logeek404/logeek404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hongyu He
 
-Here are some ideas to get you started:
+M.S. Student in Artificial Intelligence  
+Guangdong University of Technology, China
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+- Computer Vision
+- Diffusion Models
+- Image Style Transfer
+- Generative AI
+
+## Contact
+**Email:** hehongyu18@mails.gdut.edu.cn
+  
