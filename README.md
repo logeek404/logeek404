@@ -1,7 +1,7 @@
 
 # Hongyu He
 
-M.S. Student in Artificial Intelligence  
+Master's Student in Artificial Intelligence  
 Guangdong University of Technology, China
 
 ## Research Interests
